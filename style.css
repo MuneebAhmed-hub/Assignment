@@ -1,0 +1,379 @@
+.blue{
+    height: 40px;
+    width: 80px;
+    background-color: blue;
+    margin-top: 15px;
+    margin-left: 710px;
+    position: absolute;
+    border-radius: 20px;
+    color: white;
+}
+.border
+{
+    height: 50px; 
+    background-color: blue;
+    
+}
+
+
+.icons{
+
+    margin-left: 200px;
+    position: absolute;
+    margin-top: -45px;
+
+}
+
+.icons img{
+
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+
+    
+}
+.first{
+
+    margin-left: 550px;
+    margin-top: -35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.topbtn{
+    position: absolute;
+    display: inline-block;
+    margin-top: -35px;
+    margin-left: 1150px;
+
+}
+
+.navbar{
+
+    height: 70px;
+   background-color: whitesmoke;;
+
+}
+
+.navbar img{
+
+    height: 50px;
+    width: 200px;
+    margin-left: 200px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.table{
+
+    
+    position: relative;
+    margin-left: 750px;
+    margin-top: -60px;
+    
+}
+.table p{
+    display: inline-block;
+    margin-left: 20px;
+  
+}
+.header img{
+
+  width: 1575px;
+  height: 500px;
+  margin-top: 10px;
+}
+.stripe{
+    height: 30px;
+    width: 1000px;
+    background-color: blue;
+    margin-left: 300px;
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+
+}
+.stripe p {
+    padding: 6px;
+  }
+  .intro h1{
+      display: inline-block;
+      
+  }
+  .intro{
+      text-align: center;
+      background-color: whitesmoke;
+      margin-top: 10px;
+  }
+  .paragraph{
+      text-align: left;
+      margin-left: 300px;
+      text-align: justify;
+      color: gray;
+  
+  }
+
+  .box{
+      height: 300px;
+      background-color: blue;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+.image{
+
+    display: inline-block;
+   margin-top: 80px;
+    color: whitesmoke;
+    margin-left: 80px;
+
+}
+
+.image1
+{
+    margin-top: 80px;
+    margin-left: -120px;
+    color: whitesmoke;
+}
+
+
+.image2
+{
+    margin-top: 80px;
+    display: inline-block;
+    margin-left: 80px;
+    color: whitesmoke;
+    margin-left: -100px;
+    
+}
+
+
+.image3
+{
+    color: whitesmoke;
+    height: 5px ;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: -100px;
+}
+
+.firstline{
+    height: 2px;
+    width: 60px;
+    background-color:green;
+    margin-left: 650px;
+    margin-top: -20px;
+}
+
+
+.secondline{
+    height: 2px;
+    width: 60px;
+    background-color:green;
+    margin-left: 790px;
+}
+.icon img{
+    height: 50px;
+    width: 50px;
+    margin-left: 730px;
+    
+}
+.mainbox{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.secondbox{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.box1{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px gray;
+  
+}
+
+
+
+.box2{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px  gray;
+   
+   
+}
+
+
+
+.box3{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px gray;
+}
+
+
+.box4{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px  gray;
+}
+
+
+.box5{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px  gray;
+}
+
+
+.box6{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 10px  gray;
+}
+
+.foot{
+ margin: 10px;
+    background-color:#1C2D44;
+}
+.b1{
+    height: 90px;
+    width: 400px;
+    background-color: #F6F6F6;
+    border: 1px solid gainsboro ;
+   text-align: center;
+    color: blue;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.b2{
+    height: 90px;
+    width: 400px;
+    background-color: #F6F6F6;
+    border: 1px solid gainsboro ;
+    text-align: center;
+    color: blue;
+    font-size: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.b3{
+    height: 90px;
+    width: 400px;
+    background-color: #F6F6F6;
+    border: 1px solid gainsboro ;
+    text-align: left;
+    color: blue;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 30px;
+   
+}
+.b4{
+    height: 90px;
+    width: 400px;
+    background-color: #F6F6F6;
+    border: 1px solid gainsboro ;
+    text-align: left;
+    color: blue;
+    font-size: 10px;
+  
+    margin-left: 455px;
+    margin-top: -90px;
+    text-align: center;
+ 
+}
+.upbox{
+    height: 250px;
+    width: 400px;
+    margin-left: 1000px;
+    margin-top: -250px;
+  
+}
+.line{
+    height: 2px;
+    width: 60px;
+    background-color: green;
+    margin-top: -10px;
+}
+
+.line1{
+    height: 2px;
+    width: 240px;
+    background-color: gainsboro;
+    margin-top: -2px;
+    margin-left: 60px;
+}
+
+.gallery{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top:  20px;
+}
+.img1 img{
+    height: 150px;
+    width: 250px;
+    margin-left: 100px;
+}
+
+.img2 img{
+    height: 150px;
+    width: 250px;
+    margin-left: -75px;
+}.img3 img{
+    height: 150px;
+    width: 250px;
+    margin-left: -75px;
+}.img4 img{
+    height: 150px;
+    width: 250px;
+    margin-left: -75px;
+}.img5 img{
+    height: 150px;
+    width: 250px;
+    margin-left: -75px;
+    
+}
+.txt{
+    margin-left: 200px;
+    margin-top: -300px;
+    
+}
+.link{
+    margin-left: 650px;
+    margin-top: -250px;
+}
+
+
+.icons1{
+
+    margin-left: 960px;
+    position: absolute;
+    margin-top: -13px;
+
+}
+
+.icons1 img{
+
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+
+    
+}
+.bfoot{
+    margin-top: 282px;
+    height: 50px;
+    background-color: blue;
+}
